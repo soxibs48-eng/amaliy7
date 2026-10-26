@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp python / cache
+__pycache__/
+*.py[cod]
+download_*.py
+inspect_*.py
+slice_*.py
+parse_*.py
+embed.html
